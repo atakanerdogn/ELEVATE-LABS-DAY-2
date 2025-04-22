@@ -1,6 +1,6 @@
 # ELEVATE-LABS-DAY-2
 Second Task of ELEVATE LABS Internship, Data Analysis
-- Tableau wasw utilized to visualize data and find interrelating factors for effective business decisions.
+- Tableau was utilized to visualize data and find interrelating factors for effective business decisions.
 - Superstore dataset was analyzed and visualizations were presented in with a powerpoint presentation
 
 Findings: 

@@ -2,6 +2,7 @@
 Second Task of ELEVATE LABS Internship, Data Analysis
 - Tableau was utilized to visualize data and find interrelating factors for effective business decisions.
 - Superstore dataset was analyzed and visualizations were presented in with a powerpoint presentation
+- EDA was performed using Python
 
 Findings: 
 Regional Sales Overview:
